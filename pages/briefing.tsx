@@ -927,12 +927,64 @@ export default function Briefing() {
                     </div>
                   ))
                 ) : (
-                  <div className="timeline-item">
-                    <div className="timeline-date">Aucune tâche</div>
-                    <div className="timeline-content">
-                      <p>Importez le CSV 300 jours pour voir les tâches à venir</p>
+                  <>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 1</div>
+                      <div className="timeline-content">
+                        <strong>Setup GCP + Gemini API + n8n</strong>
+                        <p>Créer projet GCP, activer billing, obtenir clés Gemini, installer n8n, initialiser Git</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
                     </div>
-                  </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 2</div>
+                      <div className="timeline-content">
+                        <strong>Landing Page + Deploy Vercel</strong>
+                        <p>Design Figma, setup Next.js + Tailwind, deploy Vercel avec domaine custom, analytics</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
+                    </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 3</div>
+                      <div className="timeline-content">
+                        <strong>LinkedIn Outreach Start</strong>
+                        <p>20 DMs personnalisés Gemini, setup Airtable tracking, templates library, follow-up sequences</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
+                    </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 4</div>
+                      <div className="timeline-content">
+                        <strong>n8n Workflow Voice→Gemini→Keep</strong>
+                        <p>Build prototype Voice2Text, test 5 use cases, documenter API connections, créer backups</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
+                    </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 5</div>
+                      <div className="timeline-content">
+                        <strong>First Offer €197 🎯</strong>
+                        <p>Setup Stripe checkout, sales page Gemini copy, TikTok live session, email list</p>
+                        <div className="badge badge-success">TARGET: €197</div>
+                      </div>
+                    </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 6</div>
+                      <div className="timeline-content">
+                        <strong>Analytics Review + Optimize</strong>
+                        <p>Review KPIs, optimize landing copy, push Git updates, plan semaine 2</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
+                    </div>
+                    <div className="timeline-item">
+                      <div className="timeline-date">Jour 7</div>
+                      <div className="timeline-content">
+                        <strong>Plan Week 2 Revenue Sprint</strong>
+                        <p>Content calendar, cold-email automation, webinar materials, social media schedule</p>
+                        <div className="badge badge-info">pending</div>
+                      </div>
+                    </div>
+                  </>
                 )}
               </div>
             </section>
@@ -968,7 +1020,21 @@ export default function Briefing() {
                           ))}
                         </div>
                       ) : (
-                        <p>Aucune tâche programmée pour cette semaine</p>
+                        <div className="timeline">
+                          <div className="timeline-item">
+                            <div className="timeline-date">Semaine {week}</div>
+                            <div className="timeline-content">
+                              <strong>Revenue Sprint - Semaine {week}</strong>
+                              <p>{week === 1 ? "Multichannel acquisition: 350 LinkedIn DMs, 700 cold emails, daily TikTok" : 
+                                 week === 2 ? "Conversion & delivery: Webinars, onboard clients, collect testimonials" :
+                                 week === 3 ? "Scale & systemize: Automate billing, delegate support, €9K agency offer" :
+                                 "Optimize & prepare: Stabilize processes, prepare next phase"}</p>
+                              <div className="badge badge-info">
+                                Target: €{week === 1 ? "500" : week === 2 ? "1,000" : week === 3 ? "5,000" : "5,000"}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       )}
                     </div>
                   </div>
