@@ -29,7 +29,8 @@ const Navbar = () => {
   const isInternalPage = pathname.startsWith('/dashboard') || 
                          pathname.startsWith('/tasks') || 
                          pathname.startsWith('/notes') || 
-                         pathname.startsWith('/contacts')
+                         pathname.startsWith('/contacts') ||
+                         pathname.startsWith('/summary')
 
   if (isInternalPage) {
     // Internal navbar for dashboard
@@ -49,6 +50,9 @@ const Navbar = () => {
             </a>
             <a href="/contacts" className={`hover:text-accent transition-colors ${pathname === '/contacts' ? 'text-accent' : ''}`}>
               Contacts
+            </a>
+            <a href="/summary" className={`hover:text-accent transition-colors ${pathname === '/summary' ? 'text-accent' : ''}`}>
+              Summary
             </a>
           </div>
         </div>
