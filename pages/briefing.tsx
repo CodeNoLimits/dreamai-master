@@ -995,47 +995,87 @@ export default function Briefing() {
                 <h2>Next 30 Days - Weekly Breakdown</h2>
               </div>
               
-              {[1, 2, 3, 4].map(week => {
+{[1, 2, 3, 4].map(week => {
                 const weekTasks = next30Days.filter(task => 
                   task.day >= currentDay + (week - 1) * 7 && 
                   task.day < currentDay + week * 7
                 )
+                
+                const getWeekTasks = (weekNum: number) => {
+                  if (weekNum === 1) return [
+                    { day: 8, title: "Multichannel Acquisition Launch", desc: "350 LinkedIn DMs/semaine (50/jour), 700 cold emails Apollo, daily TikTok AutoPost-∞", location: "Global" },
+                    { day: 9, title: "Appel Hub France IA - Gaëlle Pinson", desc: "Tel: +33 1 84 88 05 60, Email: contact@hub-franceia.fr, demander label 'IA Responsable'", location: "France" },
+                    { day: 10, title: "Dossier Bpifrance Diag IA", desc: "Tel: +33 1 53 89 78 78, Subvention 50% max 5k€, préparer dossier PME", location: "France" },
+                    { day: 11, title: "Israel Innovation Authority - Data for AI", desc: "NIS 44M grant lancé juillet 2025! Contact: info@innovationisrael.org.il", location: "Israel" },
+                    { day: 12, title: "LinkedIn automation scaling", desc: "PhantomBuster setup, Airtable tracking, 100 contacts/jour", location: "Global" },
+                    { day: 13, title: "Webinar preparation", desc: "Gemini scripts, landing pages, email sequences", location: "Global" },
+                    { day: 14, title: "Weekly review & optimize", desc: "KPIs analysis, A/B test results, plan semaine 2", location: "Global" }
+                  ]
+                  if (weekNum === 2) return [
+                    { day: 15, title: "Webinar delivery #1", desc: "Onboard 10 clients, collect testimonials, upsell premium", location: "Global" },
+                    { day: 16, title: "Ministry of Economy Israel contact", desc: "Email: pniyot@mse.gov.il, Digital Israel Initiative, présenter DreamAI", location: "Israel" },
+                    { day: 17, title: "Station F application", desc: "Startup accelerator Paris, préparer dossier, networking events", location: "France" },
+                    { day: 18, title: "Cold email automation", desc: "Apollo integration n8n, 1000 emails/jour, 15% open rate target", location: "Global" },
+                    { day: 19, title: "French Tech ecosystem", desc: "Aleph VC, Partech, Serena Capital - warm introductions", location: "France" },
+                    { day: 20, title: "Israel startup ecosystem", desc: "Vertex Ventures, Pitango, Grove Ventures - deck preparation", location: "Israel" },
+                    { day: 21, title: "Revenue optimization", desc: "Stripe automation, billing cycles, churn reduction", location: "Global" }
+                  ]
+                  if (weekNum === 3) return [
+                    { day: 22, title: "€9K Agency offer launch", desc: "Pack Acculturation IA, 4 semaines, PME françaises", location: "France" },
+                    { day: 23, title: "Team building Israel", desc: "Recruter 1 AI developer Tel Aviv, 1 sales specialist", location: "Israel" },
+                    { day: 24, title: "Bpifrance meeting", desc: "Présenter diagnostic IA, négocier partenariat long terme", location: "France" },
+                    { day: 25, title: "Innovation Authority application", desc: "Dossier Data for AI grant NIS 44M, focus agrotech/health", location: "Israel" },
+                    { day: 26, title: "Corporate partnerships", desc: "Orange, Thales, Dassault - POC propositions", location: "France" },
+                    { day: 27, title: "Israeli corporates", desc: "Teva, CheckPoint, Wix - AI consulting proposals", location: "Israel" },
+                    { day: 28, title: "Scale systems", desc: "Support automation, billing optimization, team onboarding", location: "Global" }
+                  ]
+                  if (weekNum === 4) return [
+                    { day: 29, title: "€5K monthly target", desc: "Validate revenue run rate, optimize conversion funnels", location: "Global" },
+                    { day: 30, title: "French grants final push", desc: "Submit all applications: Hub France IA, Bpifrance, ANRT", location: "France" },
+                    { day: 31, title: "Israeli grants submission", desc: "Complete IIA application, prepare for next funding round", location: "Israel" },
+                    { day: 32, title: "Agency phase preparation", desc: "Hire project manager, standardize delivery processes", location: "Global" },
+                    { day: 33, title: "Networking acceleration", desc: "VivaTech Paris, Israel Innovation Week participation", location: "Both" },
+                    { day: 34, title: "Phase 2 planning", desc: "90-day agency roadmap, team structure, revenue targets", location: "Global" },
+                    { day: 35, title: "Investor outreach", desc: "Seed deck finalization, warm introductions, meeting scheduling", location: "Both" }
+                  ]
+                  return []
+                }
+                
+                const defaultTasks = getWeekTasks(week)
+                const tasksToShow = weekTasks.length > 0 ? weekTasks : defaultTasks
+                
                 return (
                   <div key={week} className={`accordion-item ${openAccordion === `week${week}` ? 'active' : ''}`}>
                     <div className="accordion-header" onClick={() => toggleAccordion(`week${week}`)}>
-                      <h3>Semaine {week} ({weekTasks.length} tâches)</h3>
+                      <h3>Semaine {week} ({tasksToShow.length} tâches)</h3>
                       <span className="accordion-arrow">▼</span>
                     </div>
                     <div className="accordion-content">
-                      {weekTasks.length > 0 ? (
-                        <div className="timeline">
-                          {weekTasks.map((task, index) => (
-                            <div key={index} className="timeline-item">
-                              <div className="timeline-date">Day {task.day}</div>
-                              <div className="timeline-content">
-                                <strong>{task.title}</strong>
-                                {task.description && <p>{task.description}</p>}
-                              </div>
+                      <div className="timeline">
+                        {tasksToShow.map((task, index) => (
+                          <div key={index} className="timeline-item">
+                            <div className="timeline-date">
+                              {'day' in task ? `Jour ${task.day}` : `Day ${task.day}`}
+                              {'location' in task && (
+                                <span className={`badge ${task.location === 'France' ? 'badge-primary' : 
+                                                       task.location === 'Israel' ? 'badge-info' : 
+                                                       task.location === 'Both' ? 'badge-warning' : 'badge-success'}`}>
+                                  {task.location}
+                                </span>
+                              )}
                             </div>
-                          ))}
-                        </div>
-                      ) : (
-                        <div className="timeline">
-                          <div className="timeline-item">
-                            <div className="timeline-date">Semaine {week}</div>
                             <div className="timeline-content">
-                              <strong>Revenue Sprint - Semaine {week}</strong>
-                              <p>{week === 1 ? "Multichannel acquisition: 350 LinkedIn DMs, 700 cold emails, daily TikTok" : 
-                                 week === 2 ? "Conversion & delivery: Webinars, onboard clients, collect testimonials" :
-                                 week === 3 ? "Scale & systemize: Automate billing, delegate support, €9K agency offer" :
-                                 "Optimize & prepare: Stabilize processes, prepare next phase"}</p>
-                              <div className="badge badge-info">
-                                Target: €{week === 1 ? "500" : week === 2 ? "1,000" : week === 3 ? "5,000" : "5,000"}
-                              </div>
+                              <strong>{'title' in task ? task.title : task.title}</strong>
+                              <p>{'desc' in task ? task.desc : task.description}</p>
+                              {task.status && (
+                                <div className={`badge ${task.status === 'completed' ? 'badge-success' : 'badge-info'}`}>
+                                  {task.status}
+                                </div>
+                              )}
                             </div>
                           </div>
-                        </div>
-                      )}
+                        ))}
+                      </div>
                     </div>
                   </div>
                 )
