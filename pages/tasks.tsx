@@ -1,10 +1,24 @@
-import { useCollection } from '../hooks/useFirestore'
 import Head from 'next/head'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 export default function Tasks() {
-  const { data: tasks, loading } = useCollection('tasks300')
+  const [tasks, setTasks] = useState([])
+  const [loading, setLoading] = useState(true)
   const [filter, setFilter] = useState('All')
+
+  useEffect(() => {
+    // Charger les données depuis le fichier JSON
+    fetch('/data/tasks300.json')
+      .then(res => res.json())
+      .then(data => {
+        setTasks(data)
+        setLoading(false)
+      })
+      .catch(error => {
+        console.error('Error loading tasks:', error)
+        setLoading(false)
+      })
+  }, [])
 
   const filteredTasks = tasks.filter(task => {
     if (filter === 'All') return true
