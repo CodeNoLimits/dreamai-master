@@ -1,0 +1,209 @@
+{
+  "project": "DreamAI - Révolution Empathique",
+  "total_days": 300,
+  "start_date": "2025-07-17",
+  "phases": [
+    {
+      "id": 1,
+      "name": "Foundation Sprint",
+      "days": "1-7",
+      "revenue_target": 197,
+      "actual_target": 10000,
+      "focus": "Validation concept + premiers revenus"
+    },
+    {
+      "id": 2,
+      "name": "Revenue Sprint", 
+      "days": "8-30",
+      "revenue_target": 5000,
+      "actual_target": 15000,
+      "focus": "Scale micro-apps + B2B expansion"
+    },
+    {
+      "id": 3,
+      "name": "Agency Scale",
+      "days": "31-90", 
+      "revenue_target": 15000,
+      "actual_target": 100000,
+      "focus": "Consulting & Team building"
+    },
+    {
+      "id": 4,
+      "name": "SaaS Build",
+      "days": "91-180",
+      "revenue_target": 30000,
+      "actual_target": 500000,
+      "focus": "Platform development & Scale"
+    },
+    {
+      "id": 5,
+      "name": "Platform & Seed",
+      "days": "181-300",
+      "revenue_target": 50000,
+      "actual_target": 10000000,
+      "focus": "Funding & Global expansion"
+    }
+  ],
+  "suprafunctions": {
+    "APE": {
+      "name": "Algorithme Prédictif Empathique",
+      "description": "Analyser et prédire les besoins empathiques",
+      "monetization": "€9.99/mois par utilisateur"
+    },
+    "VELA": {
+      "name": "Virtuous Empathy Level Algorithm", 
+      "description": "Mesurer et optimiser l'empathie",
+      "monetization": "Licences B2B €2,000-5,000"
+    },
+    "HEART": {
+      "name": "Human-Enhanced AI Rational Thinking",
+      "description": "Orchestrateur éthique bienveillant",
+      "monetization": "Certification €10,000+"
+    },
+    "DCS": {
+      "name": "Dream Consistency Score",
+      "description": "Cohérence aspirations-actions",
+      "monetization": "Coaching €99/mois, B2B €2,000-5,000"
+    },
+    "SCA": {
+      "name": "Sentient Core Algorithm",
+      "description": "7 niveaux de pensée sentiente",
+      "monetization": "Plateforme premium €199/mois"
+    }
+  },
+  "days": [
+
+
+    {
+      "day": 1,
+      "date": "2025-07-17",
+      "phase": "Foundation Sprint",
+      "title": "Genesis & Activation Suprafonctions",
+      "description": "Lancement officiel DreamAI avec activation des suprafonctions",
+      "revenue_target": 50,
+      "tasks": [
+        {
+          "time": "09:00",
+          "task": "Finalisation Mission Control révolutionnaire",
+          "duration": 180,
+          "ai_prompt": "Optimise l'interface Mission Control avec CSS avancé et intégration suprafonctions",
+          "deliverable": "Application Mission Control déployée",
+          "revenue_impact": 0
+        },
+        {
+          "time": "14:00", 
+          "task": "Activation APE pour première analyse prédictive",
+          "duration": 120,
+          "ai_prompt": "Configure APE pour analyser 10 profils utilisateurs test et générer prédictions empathiques",
+          "deliverable": "APE opérationnel avec premiers résultats",
+          "revenue_impact": 0
+        },
+        {
+          "time": "18:00",
+          "task": "Lancement DreamKeep AI (Voice-to-Note)",
+          "duration": 120,
+          "ai_prompt": "Déploie DreamKeep AI avec pricing €9.99/mois et onboarding utilisateur",
+          "deliverable": "DreamKeep AI live avec 5 premiers utilisateurs",
+          "revenue_impact": 50
+        }
+      ],
+      "kpis": {
+        "ape_score": 75,
+        "vela_level": 0.6,
+        "heart_compliance": 90,
+        "dcs_average": 70,
+        "sca_orchestration": 80,
+        "users_acquired": 5,
+        "revenue_generated": 50
+      },
+      "status": "pending"
+    },
+    {
+      "day": 2,
+      "date": "2025-07-18", 
+      "phase": "Foundation Sprint",
+      "title": "VELA Integration & Empathic Calibration",
+      "description": "Calibrage empathique et lancement DreamMail AI",
+      "revenue_target": 100,
+      "tasks": [
+        {
+          "time": "09:00",
+          "task": "Calibrage VELA sur 100 interactions test",
+          "duration": 180,
+          "ai_prompt": "Calibre VELA avec 100 interactions variées pour optimiser détection empathique",
+          "deliverable": "VELA calibré avec score 0.8+",
+          "revenue_impact": 0
+        },
+        {
+          "time": "14:00",
+          "task": "Lancement DreamMail AI (Email automation)",
+          "duration": 120, 
+          "ai_prompt": "Déploie DreamMail AI avec templates empathiques et pricing €19.99/mois",
+          "deliverable": "DreamMail AI opérationnel",
+          "revenue_impact": 60
+        },
+        {
+          "time": "18:00",
+          "task": "Première consultation B2B (diagnostic empathie)",
+          "duration": 120,
+          "ai_prompt": "Prépare diagnostic empathie B2B avec analyse VELA et recommandations",
+          "deliverable": "Consultation B2B €500 réalisée",
+          "revenue_impact": 500
+        }
+      ],
+      "kpis": {
+        "ape_score": 80,
+        "vela_level": 0.8,
+        "heart_compliance": 92,
+        "dcs_average": 75,
+        "sca_orchestration": 85,
+        "users_acquired": 8,
+        "revenue_generated": 560
+      },
+      "status": "pending"
+    },
+    {
+      "day": 3,
+      "date": "2025-07-19",
+      "phase": "Foundation Sprint", 
+      "title": "APE Activation & Predictive Empathy Launch",
+      "description": "Tests APE avancés et première vente B2B majeure",
+      "revenue_target": 2197,
+      "tasks": [
+        {
+          "time": "09:00",
+          "task": "Tests APE sur 50 profils utilisateurs",
+          "duration": 180,
+          "ai_prompt": "Teste APE sur 50 profils diversifiés et génère rapports prédictifs personnalisés",
+          "deliverable": "50 analyses prédictives APE validées",
+          "revenue_impact": 0
+        },
+        {
+          "time": "14:00",
+          "task": "Lancement service coaching DCS",
+          "duration": 120,
+          "ai_prompt": "Lance service coaching DCS avec plans personnalisés €99/mois",
+          "deliverable": "Service coaching DCS actif",
+          "revenue_impact": 297
+        },
+        {
+          "time": "18:00", 
+          "task": "Première vente licence VELA B2B",
+          "duration": 120,
+          "ai_prompt": "Finalise vente licence VELA B2B avec intégration personnalisée",
+          "deliverable": "Licence VELA B2B €2,000 vendue",
+          "revenue_impact": 2000
+        }
+      ],
+      "kpis": {
+        "ape_score": 88,
+        "vela_level": 0.85,
+        "heart_compliance": 95,
+        "dcs_average": 80,
+        "sca_orchestration": 90,
+        "users_acquired": 15,
+        "revenue_generated": 2297
+      },
+      "status": "pending"
+    }
+

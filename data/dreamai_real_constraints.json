@@ -1,0 +1,106 @@
+{
+  "project": "DreamAI - Revenue-First Approach",
+  "constraints": {
+    "budget_monthly": 100,
+    "time_daily_hours": 2,
+    "survival_monthly": 1300,
+    "window_months": 18,
+    "team": "Solo + Ariel 50/50"
+  },
+  "revenue_sources": [
+    {
+      "id": "commissions",
+      "name": "Commissions",
+      "types": [
+        {"name": "Recrutement", "rate": "50% premier mois", "potential": 1000},
+        {"name": "Investissement", "rate": "8%/5%/3%", "potential": 5000}
+      ]
+    },
+    {
+      "id": "micro_apps",
+      "name": "Micro-Apps Factory",
+      "apps": [
+        {"name": "Voice2Text Pro", "price": 9.99, "target_users": 100, "mrr_potential": 999},
+        {"name": "DCS Calculator", "price": 19.99, "target_users": 50, "mrr_potential": 999},
+        {"name": "Dream Journal", "price": 14.99, "target_users": 75, "mrr_potential": 1124}
+      ]
+    },
+    {
+      "id": "subscriptions",
+      "name": "Abonnements",
+      "tiers": [
+        {"name": "B2C Basic", "price": 9, "target": 100},
+        {"name": "B2C Pro", "price": 30, "target": 50},
+        {"name": "B2B Starter", "price": 99, "target": 20},
+        {"name": "B2B Enterprise", "price": 999, "target": 5}
+      ]
+    }
+  ],
+  "tech_stack": {
+    "frontend": "Next.js + Tailwind",
+    "backend": "Supabase",
+    "payments": "Stripe",
+    "ai": "Claude API + GPT fallback",
+    "voice": "Web Speech API → Whisper",
+    "automation": "n8n",
+    "deploy": "Vercel free tier"
+  },
+  "current_status": {
+    "day": 3,
+    "phase": "Foundation Sprint",
+    "revenue_generated": 0,
+    "revenue_target_week": 197,
+    "apps_launched": 0,
+    "commissions_tracked": 0,
+    "time_spent_today": 1.5,
+    "budget_used_month": 25
+  },
+  "immediate_priorities": [
+    {
+      "priority": 1,
+      "task": "Launch Voice2Text Pro",
+      "revenue_potential": 999,
+      "time_estimate": "4h",
+      "deadline": "J+2"
+    },
+    {
+      "priority": 2,
+      "task": "Setup Commission Tracking",
+      "revenue_potential": 1000,
+      "time_estimate": "3h", 
+      "deadline": "J+3"
+    },
+    {
+      "priority": 3,
+      "task": "DCS Calculator MVP",
+      "revenue_potential": 500,
+      "time_estimate": "6h",
+      "deadline": "J+5"
+    }
+  ],
+  "mantras": [
+    "Revenue before features",
+    "Ship daily or die",
+    "Simple scales, complex fails",
+    "2h/jour MAX",
+    "Hazak ve'ematz!"
+  ],
+  "risks": [
+    {
+      "risk": "OpenAI wearable launch",
+      "timeline": "12-18 months",
+      "mitigation": "Speed to market + unique empathy angle"
+    },
+    {
+      "risk": "Budget burn",
+      "timeline": "Monthly",
+      "mitigation": "€100/month strict limit"
+    },
+    {
+      "risk": "Time management",
+      "timeline": "Daily",
+      "mitigation": "2h/day hard stop"
+    }
+  ]
+}
+
