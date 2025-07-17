@@ -1,0 +1,92 @@
+[
+  {
+    "id": "DAY_001",
+    "day": 1,
+    "phase": "Foundation",
+    "keyTasks": "\"• Initialiser le repo GitHub\n• Configurer l'environnement de développement\n• Créer la structure de base\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-07-17"
+  },
+  {
+    "id": "DAY_002",
+    "day": 2,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le MVP Voice2Text\n• Tester l'API Web Speech\n• Créer la landing page\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-07-18"
+  },
+  {
+    "id": "DAY_003",
+    "day": 3,
+    "phase": "Foundation",
+    "keyTasks": "\"• Optimiser l'interface utilisateur\n• Ajouter les fonctionnalités premium\n• Préparer le déploiement\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-07-19"
+  },
+  {
+    "id": "DAY_004",
+    "day": 4,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer Voice2Text Pro\n• Configurer les paiements Stripe\n• Marketing initial\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-07-20"
+  },
+  {
+    "id": "DAY_005",
+    "day": 5,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les premiers retours\n• Optimiser la conversion\n• Développer la v2\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-07-21"
+  },
+  {
+    "id": "DAY_006",
+    "day": 6,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des fonctionnalités\n• Support client\n• Métriques de performance\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-07-22"
+  },
+  {
+    "id": "DAY_007",
+    "day": 7,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de consolidation\n• Préparation grant Israël\n• Documentation technique\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-07-23"
+  },
+  {
+    "id": "DAY_008",
+    "day": 8,
+    "phase": "Funding",
+    "keyTasks": "\"• Finaliser dossier Innovation Authority\n• Préparer pitch deck\n• Contacts investisseurs\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-07-24"
+  },
+  {
+    "id": "DAY_009",
+    "day": 9,
+    "phase": "Funding",
+    "keyTasks": "\"• Soumission grant Israël\n• Networking événements tech\n• Développement partenariats\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-07-25"
+  },
+  {
+    "id": "DAY_010",
+    "day": 10,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi candidatures\n• Préparation dossier France\n• Optimisation produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-07-26"
+  }
+]

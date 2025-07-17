@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "DAY_001",
+    "day": 1,
+    "phase": "Foundation",
+    "keyTasks": "\"• Initialiser le repo GitHub\n• Configurer l'environnement de développement\n• Créer la structure de base\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-07-17"
+  },
+  {
+    "id": "DAY_002",
+    "day": 2,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le MVP Voice2Text\n• Tester l'API Web Speech\n• Créer la landing page\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-07-18"
+  },
+  {
+    "id": "DAY_003",
+    "day": 3,
+    "phase": "Foundation",
+    "keyTasks": "\"• Optimiser l'interface utilisateur\n• Ajouter les fonctionnalités premium\n• Préparer le déploiement\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-07-19"
+  },
+  {
+    "id": "DAY_004",
+    "day": 4,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer Voice2Text Pro\n• Configurer les paiements Stripe\n• Marketing initial\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-07-20"
+  },
+  {
+    "id": "DAY_005",
+    "day": 5,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les premiers retours\n• Optimiser la conversion\n• Développer la v2\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-07-21"
+  },
+  {
+    "id": "DAY_006",
+    "day": 6,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des fonctionnalités\n• Support client\n• Métriques de performance\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-07-22"
+  },
+  {
+    "id": "DAY_007",
+    "day": 7,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de consolidation\n• Préparation grant Israël\n• Documentation technique\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-07-23"
+  },
+  {
+    "id": "DAY_008",
+    "day": 8,
+    "phase": "Funding",
+    "keyTasks": "\"• Finaliser dossier Innovation Authority\n• Préparer pitch deck\n• Contacts investisseurs\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-07-24"
+  },
+  {
+    "id": "DAY_009",
+    "day": 9,
+    "phase": "Funding",
+    "keyTasks": "\"• Soumission grant Israël\n• Networking événements tech\n• Développement partenariats\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-07-25"
+  },
+  {
+    "id": "DAY_010",
+    "day": 10,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi candidatures\n• Préparation dossier France\n• Optimisation produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-07-26"
+  },
+  {
+    "id": "DAY_011",
+    "day": 11,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-07-27"
+  },
+  {
+    "id": "DAY_012",
+    "day": 12,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-07-28"
+  },
+  {
+    "id": "DAY_013",
+    "day": 13,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-07-29"
+  },
+  {
+    "id": "DAY_014",
+    "day": 14,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-07-30"
+  },
+  {
+    "id": "DAY_015",
+    "day": 15,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-07-31"
+  },
+  {
+    "id": "DAY_016",
+    "day": 16,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-08-01"
+  },
+  {
+    "id": "DAY_017",
+    "day": 17,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-02"
+  },
+  {
+    "id": "DAY_018",
+    "day": 18,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-03"
+  },
+  {
+    "id": "DAY_019",
+    "day": 19,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-08-04"
+  },
+  {
+    "id": "DAY_020",
+    "day": 20,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-08-05"
+  },
+  {
+    "id": "DAY_021",
+    "day": 21,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-08-06"
+  },
+  {
+    "id": "DAY_022",
+    "day": 22,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-08-07"
+  },
+  {
+    "id": "DAY_023",
+    "day": 23,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-08-08"
+  },
+  {
+    "id": "DAY_024",
+    "day": 24,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-08-09"
+  },
+  {
+    "id": "DAY_025",
+    "day": 25,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-08-10"
+  },
+  {
+    "id": "DAY_026",
+    "day": 26,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-08-11"
+  },
+  {
+    "id": "DAY_027",
+    "day": 27,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-12"
+  },
+  {
+    "id": "DAY_028",
+    "day": 28,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-13"
+  },
+  {
+    "id": "DAY_029",
+    "day": 29,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-08-14"
+  },
+  {
+    "id": "DAY_030",
+    "day": 30,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-08-15"
+  },
+  {
+    "id": "DAY_031",
+    "day": 31,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-08-16"
+  },
+  {
+    "id": "DAY_032",
+    "day": 32,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-08-17"
+  },
+  {
+    "id": "DAY_033",
+    "day": 33,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-08-18"
+  },
+  {
+    "id": "DAY_034",
+    "day": 34,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-08-19"
+  },
+  {
+    "id": "DAY_035",
+    "day": 35,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-08-20"
+  },
+  {
+    "id": "DAY_036",
+    "day": 36,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-08-21"
+  },
+  {
+    "id": "DAY_037",
+    "day": 37,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-22"
+  },
+  {
+    "id": "DAY_038",
+    "day": 38,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-08-23"
+  },
+  {
+    "id": "DAY_039",
+    "day": 39,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-08-24"
+  },
+  {
+    "id": "DAY_040",
+    "day": 40,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-08-25"
+  },
+  {
+    "id": "DAY_041",
+    "day": 41,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-08-26"
+  },
+  {
+    "id": "DAY_042",
+    "day": 42,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-08-27"
+  },
+  {
+    "id": "DAY_043",
+    "day": 43,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-08-28"
+  },
+  {
+    "id": "DAY_044",
+    "day": 44,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-08-29"
+  },
+  {
+    "id": "DAY_045",
+    "day": 45,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-08-30"
+  },
+  {
+    "id": "DAY_046",
+    "day": 46,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-08-31"
+  },
+  {
+    "id": "DAY_047",
+    "day": 47,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-01"
+  },
+  {
+    "id": "DAY_048",
+    "day": 48,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-02"
+  },
+  {
+    "id": "DAY_049",
+    "day": 49,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-09-03"
+  },
+  {
+    "id": "DAY_050",
+    "day": 50,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-09-04"
+  },
+  {
+    "id": "DAY_051",
+    "day": 51,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-09-05"
+  },
+  {
+    "id": "DAY_052",
+    "day": 52,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-09-06"
+  },
+  {
+    "id": "DAY_053",
+    "day": 53,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-09-07"
+  },
+  {
+    "id": "DAY_054",
+    "day": 54,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-09-08"
+  },
+  {
+    "id": "DAY_055",
+    "day": 55,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-09-09"
+  },
+  {
+    "id": "DAY_056",
+    "day": 56,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-09-10"
+  },
+  {
+    "id": "DAY_057",
+    "day": 57,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-11"
+  },
+  {
+    "id": "DAY_058",
+    "day": 58,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-12"
+  },
+  {
+    "id": "DAY_059",
+    "day": 59,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-09-13"
+  },
+  {
+    "id": "DAY_060",
+    "day": 60,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-09-14"
+  },
+  {
+    "id": "DAY_061",
+    "day": 61,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-09-15"
+  },
+  {
+    "id": "DAY_062",
+    "day": 62,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-09-16"
+  },
+  {
+    "id": "DAY_063",
+    "day": 63,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-09-17"
+  },
+  {
+    "id": "DAY_064",
+    "day": 64,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-09-18"
+  },
+  {
+    "id": "DAY_065",
+    "day": 65,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-09-19"
+  },
+  {
+    "id": "DAY_066",
+    "day": 66,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-09-20"
+  },
+  {
+    "id": "DAY_067",
+    "day": 67,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-21"
+  },
+  {
+    "id": "DAY_068",
+    "day": 68,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-09-22"
+  },
+  {
+    "id": "DAY_069",
+    "day": 69,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-09-23"
+  },
+  {
+    "id": "DAY_070",
+    "day": 70,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-09-24"
+  },
+  {
+    "id": "DAY_071",
+    "day": 71,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-09-25"
+  },
+  {
+    "id": "DAY_072",
+    "day": 72,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-09-26"
+  },
+  {
+    "id": "DAY_073",
+    "day": 73,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-09-27"
+  },
+  {
+    "id": "DAY_074",
+    "day": 74,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-09-28"
+  },
+  {
+    "id": "DAY_075",
+    "day": 75,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-09-29"
+  },
+  {
+    "id": "DAY_076",
+    "day": 76,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-09-30"
+  },
+  {
+    "id": "DAY_077",
+    "day": 77,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-01"
+  },
+  {
+    "id": "DAY_078",
+    "day": 78,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-02"
+  },
+  {
+    "id": "DAY_079",
+    "day": 79,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-10-03"
+  },
+  {
+    "id": "DAY_080",
+    "day": 80,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-10-04"
+  },
+  {
+    "id": "DAY_081",
+    "day": 81,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-10-05"
+  },
+  {
+    "id": "DAY_082",
+    "day": 82,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-10-06"
+  },
+  {
+    "id": "DAY_083",
+    "day": 83,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-10-07"
+  },
+  {
+    "id": "DAY_084",
+    "day": 84,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-10-08"
+  },
+  {
+    "id": "DAY_085",
+    "day": 85,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-10-09"
+  },
+  {
+    "id": "DAY_086",
+    "day": 86,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-10-10"
+  },
+  {
+    "id": "DAY_087",
+    "day": 87,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-11"
+  },
+  {
+    "id": "DAY_088",
+    "day": 88,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-12"
+  },
+  {
+    "id": "DAY_089",
+    "day": 89,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-10-13"
+  },
+  {
+    "id": "DAY_090",
+    "day": 90,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-10-14"
+  },
+  {
+    "id": "DAY_091",
+    "day": 91,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-10-15"
+  },
+  {
+    "id": "DAY_092",
+    "day": 92,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-10-16"
+  },
+  {
+    "id": "DAY_093",
+    "day": 93,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-10-17"
+  },
+  {
+    "id": "DAY_094",
+    "day": 94,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-10-18"
+  },
+  {
+    "id": "DAY_095",
+    "day": 95,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-10-19"
+  },
+  {
+    "id": "DAY_096",
+    "day": 96,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-10-20"
+  },
+  {
+    "id": "DAY_097",
+    "day": 97,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-21"
+  },
+  {
+    "id": "DAY_098",
+    "day": 98,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-22"
+  },
+  {
+    "id": "DAY_099",
+    "day": 99,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-10-23"
+  },
+  {
+    "id": "DAY_100",
+    "day": 100,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-10-24"
+  },
+  {
+    "id": "DAY_101",
+    "day": 101,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-10-25"
+  },
+  {
+    "id": "DAY_102",
+    "day": 102,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-10-26"
+  },
+  {
+    "id": "DAY_103",
+    "day": 103,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-10-27"
+  },
+  {
+    "id": "DAY_104",
+    "day": 104,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-10-28"
+  },
+  {
+    "id": "DAY_105",
+    "day": 105,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-10-29"
+  },
+  {
+    "id": "DAY_106",
+    "day": 106,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-10-30"
+  },
+  {
+    "id": "DAY_107",
+    "day": 107,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-10-31"
+  },
+  {
+    "id": "DAY_108",
+    "day": 108,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-01"
+  },
+  {
+    "id": "DAY_109",
+    "day": 109,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-11-02"
+  },
+  {
+    "id": "DAY_110",
+    "day": 110,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-11-03"
+  },
+  {
+    "id": "DAY_111",
+    "day": 111,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-11-04"
+  },
+  {
+    "id": "DAY_112",
+    "day": 112,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-11-05"
+  },
+  {
+    "id": "DAY_113",
+    "day": 113,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-11-06"
+  },
+  {
+    "id": "DAY_114",
+    "day": 114,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-11-07"
+  },
+  {
+    "id": "DAY_115",
+    "day": 115,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-11-08"
+  },
+  {
+    "id": "DAY_116",
+    "day": 116,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-11-09"
+  },
+  {
+    "id": "DAY_117",
+    "day": 117,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-10"
+  },
+  {
+    "id": "DAY_118",
+    "day": 118,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-11"
+  },
+  {
+    "id": "DAY_119",
+    "day": 119,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-11-12"
+  },
+  {
+    "id": "DAY_120",
+    "day": 120,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-11-13"
+  },
+  {
+    "id": "DAY_121",
+    "day": 121,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-11-14"
+  },
+  {
+    "id": "DAY_122",
+    "day": 122,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-11-15"
+  },
+  {
+    "id": "DAY_123",
+    "day": 123,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-11-16"
+  },
+  {
+    "id": "DAY_124",
+    "day": 124,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-11-17"
+  },
+  {
+    "id": "DAY_125",
+    "day": 125,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-11-18"
+  },
+  {
+    "id": "DAY_126",
+    "day": 126,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-11-19"
+  },
+  {
+    "id": "DAY_127",
+    "day": 127,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-20"
+  },
+  {
+    "id": "DAY_128",
+    "day": 128,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-21"
+  },
+  {
+    "id": "DAY_129",
+    "day": 129,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-11-22"
+  },
+  {
+    "id": "DAY_130",
+    "day": 130,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-11-23"
+  },
+  {
+    "id": "DAY_131",
+    "day": 131,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-11-24"
+  },
+  {
+    "id": "DAY_132",
+    "day": 132,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-11-25"
+  },
+  {
+    "id": "DAY_133",
+    "day": 133,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-11-26"
+  },
+  {
+    "id": "DAY_134",
+    "day": 134,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-11-27"
+  },
+  {
+    "id": "DAY_135",
+    "day": 135,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-11-28"
+  },
+  {
+    "id": "DAY_136",
+    "day": 136,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-11-29"
+  },
+  {
+    "id": "DAY_137",
+    "day": 137,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-11-30"
+  },
+  {
+    "id": "DAY_138",
+    "day": 138,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-01"
+  },
+  {
+    "id": "DAY_139",
+    "day": 139,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-12-02"
+  },
+  {
+    "id": "DAY_140",
+    "day": 140,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-12-03"
+  },
+  {
+    "id": "DAY_141",
+    "day": 141,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-12-04"
+  },
+  {
+    "id": "DAY_142",
+    "day": 142,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-12-05"
+  },
+  {
+    "id": "DAY_143",
+    "day": 143,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-12-06"
+  },
+  {
+    "id": "DAY_144",
+    "day": 144,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-12-07"
+  },
+  {
+    "id": "DAY_145",
+    "day": 145,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-12-08"
+  },
+  {
+    "id": "DAY_146",
+    "day": 146,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-12-09"
+  },
+  {
+    "id": "DAY_147",
+    "day": 147,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-10"
+  },
+  {
+    "id": "DAY_148",
+    "day": 148,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-11"
+  },
+  {
+    "id": "DAY_149",
+    "day": 149,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-12-12"
+  },
+  {
+    "id": "DAY_150",
+    "day": 150,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-12-13"
+  },
+  {
+    "id": "DAY_151",
+    "day": 151,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-12-14"
+  },
+  {
+    "id": "DAY_152",
+    "day": 152,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-12-15"
+  },
+  {
+    "id": "DAY_153",
+    "day": 153,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-12-16"
+  },
+  {
+    "id": "DAY_154",
+    "day": 154,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-12-17"
+  },
+  {
+    "id": "DAY_155",
+    "day": 155,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-12-18"
+  },
+  {
+    "id": "DAY_156",
+    "day": 156,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-12-19"
+  },
+  {
+    "id": "DAY_157",
+    "day": 157,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-20"
+  },
+  {
+    "id": "DAY_158",
+    "day": 158,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-21"
+  },
+  {
+    "id": "DAY_159",
+    "day": 159,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2025-12-22"
+  },
+  {
+    "id": "DAY_160",
+    "day": 160,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2025-12-23"
+  },
+  {
+    "id": "DAY_161",
+    "day": 161,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2025-12-24"
+  },
+  {
+    "id": "DAY_162",
+    "day": 162,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2025-12-25"
+  },
+  {
+    "id": "DAY_163",
+    "day": 163,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2025-12-26"
+  },
+  {
+    "id": "DAY_164",
+    "day": 164,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2025-12-27"
+  },
+  {
+    "id": "DAY_165",
+    "day": 165,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2025-12-28"
+  },
+  {
+    "id": "DAY_166",
+    "day": 166,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2025-12-29"
+  },
+  {
+    "id": "DAY_167",
+    "day": 167,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-30"
+  },
+  {
+    "id": "DAY_168",
+    "day": 168,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2025-12-31"
+  },
+  {
+    "id": "DAY_169",
+    "day": 169,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-01-01"
+  },
+  {
+    "id": "DAY_170",
+    "day": 170,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-01-02"
+  },
+  {
+    "id": "DAY_171",
+    "day": 171,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-01-03"
+  },
+  {
+    "id": "DAY_172",
+    "day": 172,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-01-04"
+  },
+  {
+    "id": "DAY_173",
+    "day": 173,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-01-05"
+  },
+  {
+    "id": "DAY_174",
+    "day": 174,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-01-06"
+  },
+  {
+    "id": "DAY_175",
+    "day": 175,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-01-07"
+  },
+  {
+    "id": "DAY_176",
+    "day": 176,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-01-08"
+  },
+  {
+    "id": "DAY_177",
+    "day": 177,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-09"
+  },
+  {
+    "id": "DAY_178",
+    "day": 178,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-10"
+  },
+  {
+    "id": "DAY_179",
+    "day": 179,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-01-11"
+  },
+  {
+    "id": "DAY_180",
+    "day": 180,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-01-12"
+  },
+  {
+    "id": "DAY_181",
+    "day": 181,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-01-13"
+  },
+  {
+    "id": "DAY_182",
+    "day": 182,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-01-14"
+  },
+  {
+    "id": "DAY_183",
+    "day": 183,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-01-15"
+  },
+  {
+    "id": "DAY_184",
+    "day": 184,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-01-16"
+  },
+  {
+    "id": "DAY_185",
+    "day": 185,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-01-17"
+  },
+  {
+    "id": "DAY_186",
+    "day": 186,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-01-18"
+  },
+  {
+    "id": "DAY_187",
+    "day": 187,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-19"
+  },
+  {
+    "id": "DAY_188",
+    "day": 188,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-20"
+  },
+  {
+    "id": "DAY_189",
+    "day": 189,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-01-21"
+  },
+  {
+    "id": "DAY_190",
+    "day": 190,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-01-22"
+  },
+  {
+    "id": "DAY_191",
+    "day": 191,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-01-23"
+  },
+  {
+    "id": "DAY_192",
+    "day": 192,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-01-24"
+  },
+  {
+    "id": "DAY_193",
+    "day": 193,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-01-25"
+  },
+  {
+    "id": "DAY_194",
+    "day": 194,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-01-26"
+  },
+  {
+    "id": "DAY_195",
+    "day": 195,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-01-27"
+  },
+  {
+    "id": "DAY_196",
+    "day": 196,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-01-28"
+  },
+  {
+    "id": "DAY_197",
+    "day": 197,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-29"
+  },
+  {
+    "id": "DAY_198",
+    "day": 198,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-01-30"
+  },
+  {
+    "id": "DAY_199",
+    "day": 199,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-01-31"
+  },
+  {
+    "id": "DAY_200",
+    "day": 200,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-02-01"
+  },
+  {
+    "id": "DAY_201",
+    "day": 201,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-02-02"
+  },
+  {
+    "id": "DAY_202",
+    "day": 202,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-02-03"
+  },
+  {
+    "id": "DAY_203",
+    "day": 203,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-02-04"
+  },
+  {
+    "id": "DAY_204",
+    "day": 204,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-02-05"
+  },
+  {
+    "id": "DAY_205",
+    "day": 205,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-02-06"
+  },
+  {
+    "id": "DAY_206",
+    "day": 206,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-02-07"
+  },
+  {
+    "id": "DAY_207",
+    "day": 207,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-02-08"
+  },
+  {
+    "id": "DAY_208",
+    "day": 208,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-02-09"
+  },
+  {
+    "id": "DAY_209",
+    "day": 209,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-02-10"
+  },
+  {
+    "id": "DAY_210",
+    "day": 210,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-02-11"
+  },
+  {
+    "id": "DAY_211",
+    "day": 211,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-02-12"
+  },
+  {
+    "id": "DAY_212",
+    "day": 212,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-02-13"
+  },
+  {
+    "id": "DAY_213",
+    "day": 213,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-02-14"
+  },
+  {
+    "id": "DAY_214",
+    "day": 214,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-02-15"
+  },
+  {
+    "id": "DAY_215",
+    "day": 215,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-02-16"
+  },
+  {
+    "id": "DAY_216",
+    "day": 216,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-02-17"
+  },
+  {
+    "id": "DAY_217",
+    "day": 217,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-02-18"
+  },
+  {
+    "id": "DAY_218",
+    "day": 218,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-02-19"
+  },
+  {
+    "id": "DAY_219",
+    "day": 219,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-02-20"
+  },
+  {
+    "id": "DAY_220",
+    "day": 220,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-02-21"
+  },
+  {
+    "id": "DAY_221",
+    "day": 221,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-02-22"
+  },
+  {
+    "id": "DAY_222",
+    "day": 222,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-02-23"
+  },
+  {
+    "id": "DAY_223",
+    "day": 223,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-02-24"
+  },
+  {
+    "id": "DAY_224",
+    "day": 224,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-02-25"
+  },
+  {
+    "id": "DAY_225",
+    "day": 225,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-02-26"
+  },
+  {
+    "id": "DAY_226",
+    "day": 226,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-02-27"
+  },
+  {
+    "id": "DAY_227",
+    "day": 227,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-02-28"
+  },
+  {
+    "id": "DAY_228",
+    "day": 228,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-01"
+  },
+  {
+    "id": "DAY_229",
+    "day": 229,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-03-02"
+  },
+  {
+    "id": "DAY_230",
+    "day": 230,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-03-03"
+  },
+  {
+    "id": "DAY_231",
+    "day": 231,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-03-04"
+  },
+  {
+    "id": "DAY_232",
+    "day": 232,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-03-05"
+  },
+  {
+    "id": "DAY_233",
+    "day": 233,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-03-06"
+  },
+  {
+    "id": "DAY_234",
+    "day": 234,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-03-07"
+  },
+  {
+    "id": "DAY_235",
+    "day": 235,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-03-08"
+  },
+  {
+    "id": "DAY_236",
+    "day": 236,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-03-09"
+  },
+  {
+    "id": "DAY_237",
+    "day": 237,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-10"
+  },
+  {
+    "id": "DAY_238",
+    "day": 238,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-11"
+  },
+  {
+    "id": "DAY_239",
+    "day": 239,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-03-12"
+  },
+  {
+    "id": "DAY_240",
+    "day": 240,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-03-13"
+  },
+  {
+    "id": "DAY_241",
+    "day": 241,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-03-14"
+  },
+  {
+    "id": "DAY_242",
+    "day": 242,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-03-15"
+  },
+  {
+    "id": "DAY_243",
+    "day": 243,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-03-16"
+  },
+  {
+    "id": "DAY_244",
+    "day": 244,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-03-17"
+  },
+  {
+    "id": "DAY_245",
+    "day": 245,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-03-18"
+  },
+  {
+    "id": "DAY_246",
+    "day": 246,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-03-19"
+  },
+  {
+    "id": "DAY_247",
+    "day": 247,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-20"
+  },
+  {
+    "id": "DAY_248",
+    "day": 248,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-21"
+  },
+  {
+    "id": "DAY_249",
+    "day": 249,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-03-22"
+  },
+  {
+    "id": "DAY_250",
+    "day": 250,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-03-23"
+  },
+  {
+    "id": "DAY_251",
+    "day": 251,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-03-24"
+  },
+  {
+    "id": "DAY_252",
+    "day": 252,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-03-25"
+  },
+  {
+    "id": "DAY_253",
+    "day": 253,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-03-26"
+  },
+  {
+    "id": "DAY_254",
+    "day": 254,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-03-27"
+  },
+  {
+    "id": "DAY_255",
+    "day": 255,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-03-28"
+  },
+  {
+    "id": "DAY_256",
+    "day": 256,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-03-29"
+  },
+  {
+    "id": "DAY_257",
+    "day": 257,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-30"
+  },
+  {
+    "id": "DAY_258",
+    "day": 258,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-03-31"
+  },
+  {
+    "id": "DAY_259",
+    "day": 259,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-04-01"
+  },
+  {
+    "id": "DAY_260",
+    "day": 260,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-04-02"
+  },
+  {
+    "id": "DAY_261",
+    "day": 261,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-04-03"
+  },
+  {
+    "id": "DAY_262",
+    "day": 262,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-04-04"
+  },
+  {
+    "id": "DAY_263",
+    "day": 263,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-04-05"
+  },
+  {
+    "id": "DAY_264",
+    "day": 264,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-04-06"
+  },
+  {
+    "id": "DAY_265",
+    "day": 265,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-04-07"
+  },
+  {
+    "id": "DAY_266",
+    "day": 266,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-04-08"
+  },
+  {
+    "id": "DAY_267",
+    "day": 267,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-09"
+  },
+  {
+    "id": "DAY_268",
+    "day": 268,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-10"
+  },
+  {
+    "id": "DAY_269",
+    "day": 269,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-04-11"
+  },
+  {
+    "id": "DAY_270",
+    "day": 270,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-04-12"
+  },
+  {
+    "id": "DAY_271",
+    "day": 271,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-04-13"
+  },
+  {
+    "id": "DAY_272",
+    "day": 272,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-04-14"
+  },
+  {
+    "id": "DAY_273",
+    "day": 273,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-04-15"
+  },
+  {
+    "id": "DAY_274",
+    "day": 274,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-04-16"
+  },
+  {
+    "id": "DAY_275",
+    "day": 275,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-04-17"
+  },
+  {
+    "id": "DAY_276",
+    "day": 276,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-04-18"
+  },
+  {
+    "id": "DAY_277",
+    "day": 277,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-19"
+  },
+  {
+    "id": "DAY_278",
+    "day": 278,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-20"
+  },
+  {
+    "id": "DAY_279",
+    "day": 279,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-04-21"
+  },
+  {
+    "id": "DAY_280",
+    "day": 280,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-04-22"
+  },
+  {
+    "id": "DAY_281",
+    "day": 281,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-04-23"
+  },
+  {
+    "id": "DAY_282",
+    "day": 282,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-04-24"
+  },
+  {
+    "id": "DAY_283",
+    "day": 283,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-04-25"
+  },
+  {
+    "id": "DAY_284",
+    "day": 284,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-04-26"
+  },
+  {
+    "id": "DAY_285",
+    "day": 285,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-04-27"
+  },
+  {
+    "id": "DAY_286",
+    "day": 286,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": "DAY_287",
+    "day": 287,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-29"
+  },
+  {
+    "id": "DAY_288",
+    "day": 288,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": "DAY_289",
+    "day": 289,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-05-01"
+  },
+  {
+    "id": "DAY_290",
+    "day": 290,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-05-02"
+  },
+  {
+    "id": "DAY_291",
+    "day": 291,
+    "phase": "Foundation",
+    "keyTasks": "\"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances\"",
+    "status": "pending",
+    "profitTarget": 0,
+    "dueDate": "2026-05-03"
+  },
+  {
+    "id": "DAY_292",
+    "day": 292,
+    "phase": "Foundation",
+    "keyTasks": "\"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration\"",
+    "status": "pending",
+    "profitTarget": 50,
+    "dueDate": "2026-05-04"
+  },
+  {
+    "id": "DAY_293",
+    "day": 293,
+    "phase": "Foundation",
+    "keyTasks": "\"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation\"",
+    "status": "pending",
+    "profitTarget": 100,
+    "dueDate": "2026-05-05"
+  },
+  {
+    "id": "DAY_294",
+    "day": 294,
+    "phase": "Revenue",
+    "keyTasks": "\"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions\"",
+    "status": "pending",
+    "profitTarget": 200,
+    "dueDate": "2026-05-06"
+  },
+  {
+    "id": "DAY_295",
+    "day": 295,
+    "phase": "Revenue",
+    "keyTasks": "\"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies\"",
+    "status": "pending",
+    "profitTarget": 300,
+    "dueDate": "2026-05-07"
+  },
+  {
+    "id": "DAY_296",
+    "day": 296,
+    "phase": "Revenue",
+    "keyTasks": "\"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue\"",
+    "status": "pending",
+    "profitTarget": 400,
+    "dueDate": "2026-05-08"
+  },
+  {
+    "id": "DAY_297",
+    "day": 297,
+    "phase": "Revenue",
+    "keyTasks": "\"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-05-09"
+  },
+  {
+    "id": "DAY_298",
+    "day": 298,
+    "phase": "Funding",
+    "keyTasks": "\"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels\"",
+    "status": "pending",
+    "profitTarget": 500,
+    "dueDate": "2026-05-10"
+  },
+  {
+    "id": "DAY_299",
+    "day": 299,
+    "phase": "Funding",
+    "keyTasks": "\"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords\"",
+    "status": "pending",
+    "profitTarget": 600,
+    "dueDate": "2026-05-11"
+  },
+  {
+    "id": "DAY_300",
+    "day": 300,
+    "phase": "Funding",
+    "keyTasks": "\"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants\"",
+    "status": "pending",
+    "profitTarget": 700,
+    "dueDate": "2026-05-12"
+  }
+]

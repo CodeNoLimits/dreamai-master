@@ -1,0 +1,303 @@
+id,day,phase,keyTasks,status,profitTarget,dueDate
+DAY_001,1,Foundation,"• Initialiser le repo GitHub\n• Configurer l'environnement de développement\n• Créer la structure de base",pending,0,2025-07-17
+DAY_002,2,Foundation,"• Développer le MVP Voice2Text\n• Tester l'API Web Speech\n• Créer la landing page",pending,50,2025-07-18
+DAY_003,3,Foundation,"• Optimiser l'interface utilisateur\n• Ajouter les fonctionnalités premium\n• Préparer le déploiement",pending,100,2025-07-19
+DAY_004,4,Revenue,"• Lancer Voice2Text Pro\n• Configurer les paiements Stripe\n• Marketing initial",pending,200,2025-07-20
+DAY_005,5,Revenue,"• Analyser les premiers retours\n• Optimiser la conversion\n• Développer la v2",pending,300,2025-07-21
+DAY_006,6,Revenue,"• Expansion des fonctionnalités\n• Support client\n• Métriques de performance",pending,400,2025-07-22
+DAY_007,7,Revenue,"• Semaine de consolidation\n• Préparation grant Israël\n• Documentation technique",pending,500,2025-07-23
+DAY_008,8,Funding,"• Finaliser dossier Innovation Authority\n• Préparer pitch deck\n• Contacts investisseurs",pending,500,2025-07-24
+DAY_009,9,Funding,"• Soumission grant Israël\n• Networking événements tech\n• Développement partenariats",pending,600,2025-07-25
+DAY_010,10,Funding,"• Suivi candidatures\n• Préparation dossier France\n• Optimisation produits existants",pending,700,2025-07-26
+DAY_011,11,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-07-27
+DAY_012,12,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-07-28
+DAY_013,13,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-07-29
+DAY_014,14,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-07-30
+DAY_015,15,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-07-31
+DAY_016,16,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-08-01
+DAY_017,17,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-08-02
+DAY_018,18,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-08-03
+DAY_019,19,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-08-04
+DAY_020,20,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-08-05
+DAY_021,21,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-08-06
+DAY_022,22,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-08-07
+DAY_023,23,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-08-08
+DAY_024,24,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-08-09
+DAY_025,25,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-08-10
+DAY_026,26,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-08-11
+DAY_027,27,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-08-12
+DAY_028,28,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-08-13
+DAY_029,29,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-08-14
+DAY_030,30,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-08-15
+DAY_031,31,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-08-16
+DAY_032,32,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-08-17
+DAY_033,33,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-08-18
+DAY_034,34,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-08-19
+DAY_035,35,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-08-20
+DAY_036,36,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-08-21
+DAY_037,37,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-08-22
+DAY_038,38,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-08-23
+DAY_039,39,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-08-24
+DAY_040,40,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-08-25
+DAY_041,41,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-08-26
+DAY_042,42,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-08-27
+DAY_043,43,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-08-28
+DAY_044,44,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-08-29
+DAY_045,45,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-08-30
+DAY_046,46,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-08-31
+DAY_047,47,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-09-01
+DAY_048,48,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-09-02
+DAY_049,49,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-09-03
+DAY_050,50,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-09-04
+DAY_051,51,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-09-05
+DAY_052,52,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-09-06
+DAY_053,53,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-09-07
+DAY_054,54,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-09-08
+DAY_055,55,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-09-09
+DAY_056,56,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-09-10
+DAY_057,57,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-09-11
+DAY_058,58,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-09-12
+DAY_059,59,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-09-13
+DAY_060,60,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-09-14
+DAY_061,61,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-09-15
+DAY_062,62,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-09-16
+DAY_063,63,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-09-17
+DAY_064,64,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-09-18
+DAY_065,65,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-09-19
+DAY_066,66,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-09-20
+DAY_067,67,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-09-21
+DAY_068,68,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-09-22
+DAY_069,69,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-09-23
+DAY_070,70,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-09-24
+DAY_071,71,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-09-25
+DAY_072,72,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-09-26
+DAY_073,73,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-09-27
+DAY_074,74,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-09-28
+DAY_075,75,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-09-29
+DAY_076,76,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-09-30
+DAY_077,77,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-10-01
+DAY_078,78,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-10-02
+DAY_079,79,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-10-03
+DAY_080,80,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-10-04
+DAY_081,81,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-10-05
+DAY_082,82,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-10-06
+DAY_083,83,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-10-07
+DAY_084,84,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-10-08
+DAY_085,85,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-10-09
+DAY_086,86,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-10-10
+DAY_087,87,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-10-11
+DAY_088,88,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-10-12
+DAY_089,89,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-10-13
+DAY_090,90,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-10-14
+DAY_091,91,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-10-15
+DAY_092,92,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-10-16
+DAY_093,93,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-10-17
+DAY_094,94,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-10-18
+DAY_095,95,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-10-19
+DAY_096,96,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-10-20
+DAY_097,97,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-10-21
+DAY_098,98,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-10-22
+DAY_099,99,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-10-23
+DAY_100,100,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-10-24
+DAY_101,101,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-10-25
+DAY_102,102,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-10-26
+DAY_103,103,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-10-27
+DAY_104,104,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-10-28
+DAY_105,105,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-10-29
+DAY_106,106,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-10-30
+DAY_107,107,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-10-31
+DAY_108,108,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-11-01
+DAY_109,109,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-11-02
+DAY_110,110,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-11-03
+DAY_111,111,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-11-04
+DAY_112,112,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-11-05
+DAY_113,113,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-11-06
+DAY_114,114,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-11-07
+DAY_115,115,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-11-08
+DAY_116,116,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-11-09
+DAY_117,117,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-11-10
+DAY_118,118,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-11-11
+DAY_119,119,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-11-12
+DAY_120,120,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-11-13
+DAY_121,121,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-11-14
+DAY_122,122,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-11-15
+DAY_123,123,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-11-16
+DAY_124,124,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-11-17
+DAY_125,125,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-11-18
+DAY_126,126,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-11-19
+DAY_127,127,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-11-20
+DAY_128,128,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-11-21
+DAY_129,129,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-11-22
+DAY_130,130,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-11-23
+DAY_131,131,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-11-24
+DAY_132,132,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-11-25
+DAY_133,133,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-11-26
+DAY_134,134,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-11-27
+DAY_135,135,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-11-28
+DAY_136,136,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-11-29
+DAY_137,137,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-11-30
+DAY_138,138,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-12-01
+DAY_139,139,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-12-02
+DAY_140,140,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-12-03
+DAY_141,141,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-12-04
+DAY_142,142,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-12-05
+DAY_143,143,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-12-06
+DAY_144,144,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-12-07
+DAY_145,145,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-12-08
+DAY_146,146,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-12-09
+DAY_147,147,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-12-10
+DAY_148,148,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-12-11
+DAY_149,149,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-12-12
+DAY_150,150,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-12-13
+DAY_151,151,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-12-14
+DAY_152,152,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-12-15
+DAY_153,153,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-12-16
+DAY_154,154,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-12-17
+DAY_155,155,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-12-18
+DAY_156,156,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-12-19
+DAY_157,157,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-12-20
+DAY_158,158,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-12-21
+DAY_159,159,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2025-12-22
+DAY_160,160,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2025-12-23
+DAY_161,161,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2025-12-24
+DAY_162,162,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2025-12-25
+DAY_163,163,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2025-12-26
+DAY_164,164,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2025-12-27
+DAY_165,165,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2025-12-28
+DAY_166,166,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2025-12-29
+DAY_167,167,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2025-12-30
+DAY_168,168,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2025-12-31
+DAY_169,169,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-01-01
+DAY_170,170,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-01-02
+DAY_171,171,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-01-03
+DAY_172,172,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-01-04
+DAY_173,173,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-01-05
+DAY_174,174,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-01-06
+DAY_175,175,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-01-07
+DAY_176,176,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-01-08
+DAY_177,177,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-01-09
+DAY_178,178,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-01-10
+DAY_179,179,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-01-11
+DAY_180,180,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-01-12
+DAY_181,181,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-01-13
+DAY_182,182,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-01-14
+DAY_183,183,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-01-15
+DAY_184,184,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-01-16
+DAY_185,185,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-01-17
+DAY_186,186,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-01-18
+DAY_187,187,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-01-19
+DAY_188,188,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-01-20
+DAY_189,189,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-01-21
+DAY_190,190,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-01-22
+DAY_191,191,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-01-23
+DAY_192,192,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-01-24
+DAY_193,193,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-01-25
+DAY_194,194,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-01-26
+DAY_195,195,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-01-27
+DAY_196,196,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-01-28
+DAY_197,197,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-01-29
+DAY_198,198,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-01-30
+DAY_199,199,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-01-31
+DAY_200,200,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-02-01
+DAY_201,201,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-02-02
+DAY_202,202,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-02-03
+DAY_203,203,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-02-04
+DAY_204,204,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-02-05
+DAY_205,205,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-02-06
+DAY_206,206,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-02-07
+DAY_207,207,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-02-08
+DAY_208,208,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-02-09
+DAY_209,209,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-02-10
+DAY_210,210,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-02-11
+DAY_211,211,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-02-12
+DAY_212,212,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-02-13
+DAY_213,213,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-02-14
+DAY_214,214,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-02-15
+DAY_215,215,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-02-16
+DAY_216,216,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-02-17
+DAY_217,217,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-02-18
+DAY_218,218,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-02-19
+DAY_219,219,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-02-20
+DAY_220,220,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-02-21
+DAY_221,221,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-02-22
+DAY_222,222,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-02-23
+DAY_223,223,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-02-24
+DAY_224,224,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-02-25
+DAY_225,225,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-02-26
+DAY_226,226,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-02-27
+DAY_227,227,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-02-28
+DAY_228,228,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-03-01
+DAY_229,229,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-03-02
+DAY_230,230,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-03-03
+DAY_231,231,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-03-04
+DAY_232,232,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-03-05
+DAY_233,233,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-03-06
+DAY_234,234,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-03-07
+DAY_235,235,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-03-08
+DAY_236,236,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-03-09
+DAY_237,237,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-03-10
+DAY_238,238,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-03-11
+DAY_239,239,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-03-12
+DAY_240,240,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-03-13
+DAY_241,241,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-03-14
+DAY_242,242,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-03-15
+DAY_243,243,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-03-16
+DAY_244,244,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-03-17
+DAY_245,245,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-03-18
+DAY_246,246,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-03-19
+DAY_247,247,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-03-20
+DAY_248,248,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-03-21
+DAY_249,249,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-03-22
+DAY_250,250,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-03-23
+DAY_251,251,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-03-24
+DAY_252,252,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-03-25
+DAY_253,253,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-03-26
+DAY_254,254,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-03-27
+DAY_255,255,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-03-28
+DAY_256,256,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-03-29
+DAY_257,257,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-03-30
+DAY_258,258,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-03-31
+DAY_259,259,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-04-01
+DAY_260,260,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-04-02
+DAY_261,261,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-04-03
+DAY_262,262,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-04-04
+DAY_263,263,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-04-05
+DAY_264,264,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-04-06
+DAY_265,265,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-04-07
+DAY_266,266,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-04-08
+DAY_267,267,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-04-09
+DAY_268,268,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-04-10
+DAY_269,269,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-04-11
+DAY_270,270,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-04-12
+DAY_271,271,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-04-13
+DAY_272,272,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-04-14
+DAY_273,273,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-04-15
+DAY_274,274,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-04-16
+DAY_275,275,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-04-17
+DAY_276,276,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-04-18
+DAY_277,277,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-04-19
+DAY_278,278,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-04-20
+DAY_279,279,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-04-21
+DAY_280,280,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-04-22
+DAY_281,281,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-04-23
+DAY_282,282,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-04-24
+DAY_283,283,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-04-25
+DAY_284,284,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-04-26
+DAY_285,285,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-04-27
+DAY_286,286,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-04-28
+DAY_287,287,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-04-29
+DAY_288,288,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-04-30
+DAY_289,289,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-05-01
+DAY_290,290,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-05-02
+DAY_291,291,Foundation,"• Revoir l'architecture système\n• Mettre à jour les dépendances\n• Optimiser les performances",pending,0,2026-05-03
+DAY_292,292,Foundation,"• Développer le module d'analyse sémantique\n• Intégrer de nouvelles sources de données\n• Tester l'intégration",pending,50,2026-05-04
+DAY_293,293,Foundation,"• Améliorer l'algorithme de reconnaissance vocale\n• Optimiser la précision\n• Préparer la documentation",pending,100,2026-05-05
+DAY_294,294,Revenue,"• Lancer la campagne de marketing digital\n• Optimiser les publicités\n• Suivre les conversions",pending,200,2026-05-06
+DAY_295,295,Revenue,"• Analyser les données de vente\n• Identifier les opportunités de croissance\n• Développer de nouvelles stratégies",pending,300,2026-05-07
+DAY_296,296,Revenue,"• Expansion des marchés cibles\n• Adapter les produits aux besoins locaux\n• Support client multilingue",pending,400,2026-05-08
+DAY_297,297,Revenue,"• Semaine de révision des objectifs\n• Préparation des rapports financiers\n• Documentation des processus",pending,500,2026-05-09
+DAY_298,298,Funding,"• Préparer la présentation aux investisseurs\n• Affiner le modèle financier\n• Identifier les partenaires potentiels",pending,500,2026-05-10
+DAY_299,299,Funding,"• Rencontrer les fonds de capital-risque\n• Négocier les termes\n• Finaliser les accords",pending,600,2026-05-11
+DAY_300,300,Funding,"• Suivi des investisseurs\n• Préparer la prochaine levée de fonds\n• Optimisation des produits existants",pending,700,2026-05-12
+
+
